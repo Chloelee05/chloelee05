@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Chloe Lee  
 
 ### 📍 University of Wollongong – Computer Science Student  
-### 💼 Data Analyst | Cybersecurity Red Teamer | AI Learner
+### 💼 Cybersecurity Red Teamer | Data Analyst | AI Learner
 
 ---
 
