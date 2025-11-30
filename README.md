@@ -18,7 +18,7 @@
 Python · R · SQL · Java · JavaScript · TypeScript · HTML/CSS · Node.js  
 
 ### 🧩 Frameworks / Libraries  
-React · Next.js · Flask · Shiny · Kivy · PyTorch · TensorFlow · Scikit-learn  
+React · Next.js · Flask · Shiny · PyTorch · TensorFlow 
 
 ### 🛠 Tools & Platforms  
 Git · GitHub · VSCode · RStudio · Jupyter · MongoDB · PostgreSQL · Windows/Linux  
