@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chloe Lee  
+# 👋 Hi, I'm Chloe Lee (Hae Eun)
 
 ### 📍 University of Wollongong – Computer Science Undergraduate  
 ### 💼 Cybersecurity Red Teamer | VULN Research | Pentester | Data Analyst | AI Learner
