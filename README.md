@@ -1,38 +1,41 @@
-# 👋 Hi, I'm Chloe Lee (Hae Eun) (李海恩)
+👋 Hi, I'm Chloe Lee (Hae Eun) (李海恩)
+📍 University of Wollongong — Computer Science Undergraduate
+💼 Backend-Focused Full-Stack Developer | Cybersecurity Enthusiast | Data & AI Builder
+🚀 About Me
 
-### 📍 University of Wollongong – Computer Science Undergraduate  
-### 💼 Cybersecurity Red Teamer | VULN Research | Pentester | Data Analyst | AI Learner
+🔧 Backend-focused full-stack developer with strong experience designing APIs, data pipelines, and system logic
 
----
+🔐 Actively exploring cybersecurity through vulnerability research, pentesting labs, and CTF challenges
 
-## 🚀 About Me
-- 🌱 Currently focusing on **Cybersecurity, Data Analytics, and AI**
-- 📊 Experienced with **R, Python, Java, and SQL**
-- 🛠 Working on multiple **big data, AI, and security club projects**
+📊 Hands-on experience building data-driven and AI-powered applications, from data ingestion to analytics dashboards
 
----
+🧠 Enjoy solving complex problems at the intersection of backend systems, security, and data
 
-## 🧰 Tech Stack
+🧰 Tech Stack
+💻 Core Languages
 
-### 💻 Languages  
-Python · R · SQL · Java · JavaScript · TypeScript · HTML/CSS · Node.js  
+Python · R · SQL · Java · JavaScript · TypeScript
 
-### 🧩 Frameworks / Libraries  
-React · Next.js · Flask · Shiny · PyTorch · TensorFlow 
+🧩 Backend & Frameworks
 
-### 🛠 Tools & Platforms  
-Git · GitHub · VSCode · RStudio · Jupyter · MongoDB · PostgreSQL · Windows/Linux  
+Flask · Node.js · RESTful APIs · Next.js (API routes) ·
+Shiny · PyTorch · TensorFlow
 
-### 🔐 Cybersecurity  
-Burp Suite · Wireshark · Nmap · OWASP ZAP · Metasploit ·  
-Linux Hardening · Web App Security · Capture The Flag (CTF) Challenges  
+🗄 Databases & Data
 
-### 📊 Data & AI  
-Data Visualization · Machine Learning · Deep Learning ·  
-Web Scraping · ETL Pipelines · Statistical Analysis  
+PostgreSQL · MongoDB · ETL Pipelines · Data Modeling ·
+Statistical Analysis · Data Visualization
 
----
+🛠 Tools & Platforms
 
-## 📫 Contact Me
-- Email: haeeunlee2005@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/hae-eun-lee-169baa2b2/
+Git · GitHub · VSCode · RStudio · Jupyter · Windows / Linux
+
+🔐 Cybersecurity
+
+Burp Suite · Wireshark · Nmap · OWASP ZAP · Metasploit ·
+Web Application Security · Linux Hardening · Capture The Flag (CTF)
+
+📫 Contact Me
+
+📧 Email: haeeunlee2005@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/hae-eun-lee-169baa2b2/
